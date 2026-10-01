@@ -1,0 +1,12 @@
+Git
+------------------
+Git Commands
+---------------
+1)git --version
+2)git config --list :- This will list all the configuration in git
+3)Setting the configuration
+
+	git config --global user.name "username"
+	git config --global user.email "email-address"
+4)How to connect a repo with local folder
+	
